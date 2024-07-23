@@ -1,0 +1,22 @@
+<?php
+return [
+    'test'=>'true',
+    'messageIfArntHaveOrderInHistory'=>"we are not have orders in this history",
+    'messageIfHaveOrderInHistory'=>'this is all orders in this history',
+    'messageForDeleteOrder'=>'the order is deleted',
+    'messageIfCantDeleteOrder'=>'you cant delete the order',
+    'onlyUser'=>'Only customers can access',
+    'onlyAdmin'=>'only Admins can accesss',
+    'received_order'=>'the order is received',
+    'already_received_order'=>'the order is already received',
+    'received_money'=>'the money for order is received',
+    'received_mony_already'=>'the money is already received',
+    'sendOrder'=>'the order is sented',
+    'alreadysentOrder'=>'the Order is already sented',
+    'sentOrderforAdmin'=>'The order was ordered from the warehouse',
+    'dontHaveEnouphAmount'=>'we dont have amount enouph in warehouse ',
+    'deleteFromFavorite'=>'the medicine deleted from favorite',
+    'NotFoundInFavorite'=>'this medicine is not found in favorite',
+    'addToFavorite'=>'the medicine is added to favorite',
+    'addToFavoriteAlready'=>'the medicine is already added to favorite',
+];
